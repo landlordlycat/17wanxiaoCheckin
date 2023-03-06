@@ -3,16 +3,13 @@
 🌈17wanxiaoCheckin
 </h1>
 
-[![](https://img.shields.io/badge/Author-ReaJason-red "作者")](https://github.com/ReaJason/)
-[![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DReaJason&longCache=true "关注数")](https://github.com/ReaJason)
-[![Bilibili](https://img.shields.io/badge/dynamic/json?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc%2FpXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8%2FS9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK%2FmKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR%2FRwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I%2FwcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I%2Fw+lgDkdI%2Fv2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3%2FBBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC%2FA8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu%2FZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U%2FH50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F%2FSS%2F9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL%2FL9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td%2FTvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC%2FosSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5%2FSAXmdfXaoQsAAAAASUVORK5CYII%3D&label=bilibili+fans&labelColor=FE7398&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D233683051&longCache=true)](https://space.bilibili.com/233683051)
-<br>
 ![](https://img.shields.io/github/stars/ReaJason/17wanxiaoCheckin-Actions?style=social "Star数量")
 ![](https://img.shields.io/github/forks/ReaJason/17wanxiaoCheckin-Actions?style=social "Fork数量")
 <br>
 [![](https://img.shields.io/github/license/ReaJason/17wanxiaoCheckin-Actions "协议")](https://github.com/ReaJason/17wanxiaoCheckin/blob/master/LICENSE)
 [![](https://img.shields.io/github/v/release/ReaJason/17wanxiaoCheckin-Actions "release版本")](https://github.com/ReaJason/17wanxiaoCheckin/releases)
-
+[![](https://github.com/ReaJason/17wanxiaoCheckin/actions/workflows/main.yml/badge.svg)](https://github.com/ReaJason/17wanxiaoCheckin/actions/workflows/main.yml)
+[![](https://github.com/ReaJason/17wanxiaoCheckin/actions/workflows/dev.yml/badge.svg)](https://github.com/ReaJason/17wanxiaoCheckin/actions/workflows/dev.yml)
 </div>
 
 ## ✨项目介绍
@@ -21,7 +18,7 @@
 
 &emsp;&emsp;本项目使用了 `requests`、`json5`、`pycryptodome` 第三方库，2.0 版本迎来项目重构，打卡数据错误修改方法，不再是以前的修改代码（不懂代码容易改错或无法下手），而是通过直接修改配置文件即可，**本脚本使用虚拟 id 来登录，如果使用了本脚本就不要再用手机登录 app 了，如果一定要用 app 请不要使用当前脚本**。
 
-&emsp;&emsp;由于完美校园就设备做了验证，只允许一个设备登录，获取本机的 device_id 可通过 [xp hook](https://reajason.github.io/2021/04/18/17wanxiaoHookGetDeviceId/) 或抓包实现来实现与脚本共存（完美校园 app 主界面 -> 全部应用 ——> 打开校园卡时抓包【 http://server.17wanxiao.com/YKT_Interface/xyk 】【请求体中 method=WX_BASE_INFO 】）
+&emsp;&emsp;由于完美校园就设备做了验证，只允许一个设备登录，获取本机的 device_id 可参考 [此处](https://github.com/ReaJason/17wanxiaoCheckin/wiki/%E8%8E%B7%E5%8F%96%E6%9C%AC%E6%9C%BA-device_id)
 
 
 
@@ -139,17 +136,17 @@
 
 ## 🙋‍脚本有问题
 * 有问题可提 [issue](https://github.com/ReaJason/17wanxiaoCheckin-Actions/issues)
-* 也可加群反馈 [交流群](https://github.com/ReaJason/17wanxiaoCheckin-Actions/issues/30)
 
 
 
 ## 🎯ToDo
+> 2022-12-29 项目停止维护，期待在其他地方和大家见面
 
-> 本人希望自己代码能越写越好，因此在功能完善的情况下不断重构代码到满意的结果，希望能和想要技术交流的小伙伴一起学习（https://reajason.github.io）
+> ~~本人希望自己代码能越写越好，因此在功能完善的情况下不断重构代码到满意的结果，希望能和想要技术交流的小伙伴一起学习（ https://reajason.github.io ）~~
 
-- [ ] 面向对象方式重构代码
-- [ ] 更优雅地处理错误和抛出异常
-- [ ] 精简配置文件
+- [ ] ~~面向对象方式重构代码~~
+- [ ] ~~更优雅地处理错误和抛出异常~~
+- [ ] ~~精简配置文件~~
 
 
 
@@ -165,3 +162,6 @@
 - 打卡失败显示 `您当前打卡内容与现有模板不符，请重新打卡~`，请使用最新的打卡 scf 压缩包重新部署
 - 等待反馈......
 
+## 🌟Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ReaJason/17wanxiaoCheckin&type=Date)](https://star-history.com/#ReaJason/17wanxiaoCheckin&Date)

@@ -25,7 +25,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 class CampusLogin:
     __slots__ = ['login_info']
 
-    def __init__(self, phone_num, device_id, app_version=10536101,
+    def __init__(self, phone_num, device_id, app_version=10558101,
                  user_agent="Dalvik/2.1.0 (Linux; U; Android 11; Redmi K20 Pro Premium Edition Build/RKQ1.200826.002)",
                  phone_code="raphael", sys_type="android", sys_version="11", phone_model="Redmi K20 Pro Premium Edition"
                  ):
@@ -103,8 +103,7 @@ class CampusLogin:
             'telephoneModel': self.login_info['telephoneModel'],
             'type': '1',
             'userName': self.login_info['phoneNum'],
-            'wanxiaoVersion': self.login_info['wanxiaoVersion'],
-            'yunyingshang': '07'
+            'wanxiaoVersion': self.login_info['wanxiaoVersion']
         }
         upload_args = {
             'session': self.login_info['sessionId'],
